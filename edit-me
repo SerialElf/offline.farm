@@ -1,4 +1,4 @@
 
 <script>
-window.location.href="https://offline.farm/"
+Location.reload()
 </script>
